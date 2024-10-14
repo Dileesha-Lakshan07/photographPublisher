@@ -1,7 +1,7 @@
 import React from "react";
 
-const PostDetail = () => {
+const footer = () => {
   return <div></div>;
 };
 
-export default PostDetail;
+export default footer;
